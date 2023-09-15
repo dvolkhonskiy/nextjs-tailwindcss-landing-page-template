@@ -5,7 +5,7 @@ export default function PricingProduct({name, description, price, features}: {
     features: string[]
 }) {
     return (
-        <div className="card bg-base-100 shadow-xl m-2 h-full p-5">
+        <div className="card bg-base-100 shadow-xl h-full p-5">
             <div className="card-body">
                 <h3 className="mb-4 text-2xl font-semibold">{name}</h3>
                 <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">{description}</p>
@@ -41,7 +41,6 @@ export default function PricingProduct({name, description, price, features}: {
                         Start
                     </button>
                 </div>
-
             </div>
         </div>
     )

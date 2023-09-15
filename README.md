@@ -3,6 +3,8 @@
 
 This is a Landing page template built with Next.js, TailwindCSS and DaisyUI. It is optimized for mobile and desktop devices.
 
+![image](./images/screenshot.png)
+
 ## How to run this project
 
 1. Clone this repository
