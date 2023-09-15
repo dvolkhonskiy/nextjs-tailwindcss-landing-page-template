@@ -11,13 +11,21 @@ This is a Landing page template built with Next.js, TailwindCSS and DaisyUI. It 
 4. Run the development server with `npm run dev`
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Supported Sections
+## Supported Sections and Features
 
+Sections:
 - Navbar
 - Hero
 - Features
 - Pricing
 - Footer
+
+Features:
+- Mobile and Desktop Optimized
+- Dark mode and other themes
+- SEO tags
+
+In order to request new features, please open an issue.
 
 ## Landing Page Features
 
