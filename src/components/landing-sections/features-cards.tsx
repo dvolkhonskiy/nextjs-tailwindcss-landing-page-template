@@ -1,4 +1,3 @@
-import Link from "next/link";
 import {StarIcon} from "lucide-react";
 
 export default function FeaturesCards() {

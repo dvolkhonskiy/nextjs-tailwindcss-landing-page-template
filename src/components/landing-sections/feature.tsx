@@ -1,8 +1,7 @@
-import Link from "next/link";
 import Image from "next/image";
 
 
-export default function Feature({isImageFirst} : {
+export default function Feature({isImageFirst}: {
     isImageFirst: boolean,
 }) {
     return (
@@ -23,7 +22,7 @@ export default function Feature({isImageFirst} : {
             <div className="w-full md:w-7/12 md:mr-8">
                 <h1 className="text-4xl font-bold">Feature title</h1>
                 <p className="text-xl py-6">
-                   Feature details
+                    Feature details
                 </p>
             </div>
 
