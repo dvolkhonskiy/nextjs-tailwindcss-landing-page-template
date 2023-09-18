@@ -52,4 +52,4 @@ For the icons, we use [lucide-react](https://lucide.dev/icons/).
 
 ### SEO tags
 
-In order to modify SEO tags like title and description, open `src/app/_layout.tsx` and modify the `metadata` variable.
+In order to modify SEO tags like title and description, open `src/app/layout.tsx` and modify the `metadata` variable.
